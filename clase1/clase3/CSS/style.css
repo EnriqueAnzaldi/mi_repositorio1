@@ -1,0 +1,163 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: aqua;
+}
+
+.-logo- {
+  height: 200px;
+  width: 300px;
+}
+
+.grupal2023 {
+  height: 500px;
+  width: 700px;
+}
+
+.equipo-jefes {
+  height: 500px;
+  width: 400px;
+}
+
+.-carreras- {
+  height: 400px;
+  width: 500px;
+}
+
+.juegos-de-equipos {
+  height: 400px;
+  width: 500px;
+}
+
+.-bailes- {
+  height: 400px;
+  width: 500px;
+}
+
+.cuentos-y-canciones {
+  height: 400px;
+  width: 500px;
+}
+
+.-juegospileta- {
+  height: 500px;
+  width: 500px;
+}
+
+.-pileta- {
+  height: 500px;
+  width: 500px;
+}
+
+.-campamento- {
+  height: 400px;
+  width: 500px;
+}
+
+.-fogon- {
+  height: 400px;
+  width: 500px;
+}
+
+.-jornada-extendida- {
+  height: 400px;
+  width: 500px;
+}
+
+.-club- {
+  height: 600px;
+  width: 600px;
+}
+
+.-carpas- {
+  height: 600px;
+  width: 600px;
+}
+
+.-volley- {
+  height: 500px;
+  width: 600px;
+}
+
+.-campamento2- {
+  height: 500px;
+  width: 600px;
+}
+
+.-pileta2- {
+  height: 600px;
+  width: 700px;
+}
+
+.-walter- {
+  height: 400px;
+}
+
+.-cris- {
+  height: 400px;
+}
+
+.-mauro- {
+  height: 400px;
+}
+
+.-ubicacion- {
+  height: 500px;
+  width: 600px;
+}
+
+.-facebook- {
+  height: 30px;
+}
+
+img {
+  max-width: 100%;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  max-width: 1320px;
+}
+
+.header_1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: sticy;
+}
+
+header {
+  background-color: blue;
+  text-transform: uppercase;
+}
+
+.nav__list {
+  list-style: none;
+  display: flex;
+}
+
+.nav__item {
+  margin-left: 5.3rem;
+}
+
+.nav__link {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: white;
+}
+
+.footer-bottom {
+  color: white;
+  text-decoration: none;
+}
+
+h1 {
+  padding: 10px;
+  border: 5px solid black;
+}
