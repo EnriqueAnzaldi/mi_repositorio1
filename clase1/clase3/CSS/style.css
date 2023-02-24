@@ -159,5 +159,6 @@ header {
 
 h1 {
   padding: 10px;
-  border: 5px solid black;
+  border: 3px solid black;
+  text-align: center;
 }
